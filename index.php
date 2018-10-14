@@ -14,3 +14,6 @@ function think($has_idea){
 }
 
 think(0);
+
+/*day 2 cant still think of anything :(*/
+think(0);
